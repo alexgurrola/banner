@@ -1,0 +1,24 @@
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Debug\Banner.exe
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Debug\Banner.pdb
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Debug\Banner.xml
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Debug\ShellBasics.dll
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\obj\Debug\Banner.Banner.resources
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\obj\Debug\Banner.Resources.resources
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\obj\Debug\Banner.vbproj.GenerateResource.Cache
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\obj\Debug\Banner.exe
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\obj\Debug\Banner.xml
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\obj\Debug\Banner.pdb
+H:\Programming\Banner\Banner\obj\Debug\Banner.exe
+H:\Programming\Banner\Banner\obj\Debug\Banner.xml
+H:\Programming\Banner\Banner\obj\Debug\Banner.pdb
+H:\Programming\Banner\Banner\bin\Debug\Banner.exe
+H:\Programming\Banner\Banner\bin\Debug\Banner.pdb
+H:\Programming\Banner\Banner\bin\Debug\Banner.xml
+H:\Programming\Banner\Banner\obj\Debug\ResolveAssemblyReference.cache
+H:\Programming\Banner\Banner\obj\Debug\Banner.Resources.resources
+H:\Programming\Banner\Banner\obj\Debug\Banner.vbproj.GenerateResource.Cache
+H:\Programming\Banner\Banner\obj\Debug\Banner.Main.resources
+H:\Programming\Banner\Banner\bin\Debug\Versidyne.System.dll
+H:\Programming\Banner\Banner\bin\Debug\Versidyne.System.pdb
+H:\Programming\Banner\Banner\bin\Debug\Versidyne.System.xml

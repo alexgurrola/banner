@@ -1,0 +1,66 @@
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\obj\Release\Banner.Form1.resources
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\obj\Release\Banner.Resources.resources
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\obj\Release\Banner.vbproj.GenerateResource.Cache
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Release\Banner.exe
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Release\Banner.pdb
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Release\Banner.xml
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Release\Versidyne.System.dll
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Release\Versidyne.System.pdb
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Release\Versidyne.System.xml
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\obj\Release\Banner.exe
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\obj\Release\Banner.xml
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\obj\Release\Banner.pdb
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Release\Versidyne.Compression.dll
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Release\Versidyne.Network.dll
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Release\Versidyne.Protocols.dll
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Release\Versidyne.Security.dll
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Release\Versidyne.Shell.dll
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Release\Versidyne.Shell.pdb
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Release\Versidyne.Compression.pdb
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Release\Versidyne.Compression.xml
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Release\Versidyne.Security.pdb
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Release\Versidyne.Security.xml
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Release\Versidyne.Network.pdb
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Release\Versidyne.Network.xml
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Release\Versidyne.Protocols.pdb
+C:\Users\Alejandro Gurrola\Documents\Programming\Banner\Banner\bin\Release\Versidyne.Protocols.xml
+H:\Programming\Banner\Banner\obj\Release\Banner.exe
+H:\Programming\Banner\Banner\obj\Release\Banner.xml
+H:\Programming\Banner\Banner\obj\Release\Banner.pdb
+H:\Programming\Banner\Banner\bin\Release\Banner.exe
+H:\Programming\Banner\Banner\bin\Release\Banner.pdb
+H:\Programming\Banner\Banner\bin\Release\Banner.xml
+H:\Programming\Banner\Banner\bin\Release\Versidyne.System.dll
+H:\Programming\Banner\Banner\bin\Release\Versidyne.System.pdb
+H:\Programming\Banner\Banner\bin\Release\Versidyne.System.xml
+H:\Programming\Banner\Banner\obj\Release\ResolveAssemblyReference.cache
+H:\Programming\Banner\Banner\obj\Release\Banner.Main.resources
+H:\Programming\Banner\Banner\obj\Release\Banner.Resources.resources
+H:\Programming\Banner\Banner\obj\Release\Banner.vbproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\Preparation\Banner\Banner\obj\Release\Banner.exe
+C:\Users\Alex\Desktop\Preparation\Banner\Banner\obj\Release\Banner.xml
+C:\Users\Alex\Desktop\Preparation\Banner\Banner\obj\Release\Banner.pdb
+C:\Users\Alex\Desktop\Preparation\Banner\Banner\bin\Release\Banner.exe
+C:\Users\Alex\Desktop\Preparation\Banner\Banner\bin\Release\Banner.pdb
+C:\Users\Alex\Desktop\Preparation\Banner\Banner\bin\Release\Banner.xml
+C:\Users\Alex\Desktop\Preparation\Banner\Banner\bin\Release\Versidyne.System.pdb
+C:\Users\Alex\Desktop\Preparation\Banner\Banner\bin\Release\Versidyne.System.xml
+C:\Users\Alex\Desktop\Preparation\Banner\Banner\obj\Release\Banner.vbprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Preparation\Banner\Banner\obj\Release\Banner.Main.resources
+C:\Users\Alex\Desktop\Preparation\Banner\Banner\obj\Release\Banner.Resources.resources
+C:\Users\Alex\Desktop\Preparation\Banner\Banner\obj\Release\Banner.vbproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\Preparation\Banner\Banner\bin\Release\Banner.exe.config
+C:\Users\Alex\Programming\Projects\Windows\banner\Banner\bin\Release\Banner.exe.config
+C:\Users\Alex\Programming\Projects\Windows\banner\Banner\bin\Release\Banner.exe
+C:\Users\Alex\Programming\Projects\Windows\banner\Banner\bin\Release\Banner.pdb
+C:\Users\Alex\Programming\Projects\Windows\banner\Banner\bin\Release\Banner.xml
+C:\Users\Alex\Programming\Projects\Windows\banner\Banner\bin\Release\Versidyne.System.pdb
+C:\Users\Alex\Programming\Projects\Windows\banner\Banner\bin\Release\Versidyne.System.xml
+C:\Users\Alex\Programming\Projects\Windows\banner\Banner\obj\Release\Banner.vbprojResolveAssemblyReference.cache
+C:\Users\Alex\Programming\Projects\Windows\banner\Banner\obj\Release\Banner.Main.resources
+C:\Users\Alex\Programming\Projects\Windows\banner\Banner\obj\Release\Banner.Resources.resources
+C:\Users\Alex\Programming\Projects\Windows\banner\Banner\obj\Release\Banner.vbproj.GenerateResource.Cache
+C:\Users\Alex\Programming\Projects\Windows\banner\Banner\obj\Release\Banner.exe
+C:\Users\Alex\Programming\Projects\Windows\banner\Banner\obj\Release\Banner.xml
+C:\Users\Alex\Programming\Projects\Windows\banner\Banner\obj\Release\Banner.pdb
